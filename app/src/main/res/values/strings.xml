@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Recipe</string>
+    <string name="txtWelcomeBanner"><![CDATA[Welcome to My Recipe Book <3]]></string>
+    <string name="txtWelcome">Welcome Banner</string>
+    <string name="btnText">Turn the Page</string>
+    <string name="Apple_Crumble">Apple Crumble</string>
+    <string name="Instructions_Text">Instructions Preheat oven to 375°F. Lightly spray an 8 or 9-inch baking dish with nonstick cooking spray and set aside. Crumble Topping In a medium bowl combine all purpose flour, brown sugar, salt, baking powder and cinnamon. Whisk to combine. 1 cup all purpose flour, 3/4 cup brown sugar, 1 teaspoon baking powder, ½ teaspoon salt, ½ teaspoon ground cinnamon Add the melted butter and stir with a fork until crumbly. 8 tablespoons unsalted butter Prepare Filling In a large bowl, combine apples, granulated sugar, lemon juice, cornstarch (or flour if using) and ground cinnamon. 2 ½ pounds Granny Smith apples, ½ cup granulated sugar, 1 tablespoon lemon juice, 2 tablespoons corn starch, ½ teaspoon salt, 1 teaspoon ground cinnamon Transfer apple mixture to the prepared baking dish and spread into an even layer. Sprinkle crumble mixture evenly over the top of the filling. Bake for 35 to 45 minutes or until bubbling and golden brown on top. Let cool for 15 minutes before serving with ice cream if desired.</string>
+    <string name="Ingredient_Text">Apple Crumble\nThis easy homemade Apple Crumble is our favorite dessert for apple season! With it’s sweet, caramelized apple filling and crumbly topping, this simple, comforting dessert is most definitely a crowd pleaser!\nServe warm and bubbling from the oven with a scoop of vanilla ice cream for a memorable, easy dessert! \nCourse Dessert \nCuisine American\nKeyword apple crumble, apple crumble recipe\nPrep Time 10 minutes\nCook Time 35 minutes\nTotal Time 45 minutes\nServings 8 servings\nCalories 367kcal</string>
+    <string name="Apple_Crisp">Apple Pie</string>
+</resources>
